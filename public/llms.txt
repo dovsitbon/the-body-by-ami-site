@@ -1,0 +1,22 @@
+# The Body by Ami
+
+> Institut de soins du visage, du corps et de longévité au centre d'Amiens : 58 rue des Jacobins, 1er étage, 80000 Amiens, France. Signature : « Face · Body · Longevity ». Fondatrice : Ami. Téléphone et WhatsApp : +33 6 23 08 10 54. Notes relevées le 5 novembre 2026 : 4,9/5 sur Google (253 avis), 5/5 sur Planity (575 avis).
+
+Soins : Face Pilates Signature (1 h 30, 190 €), Kobido (1 h 15, 120 €), lift coréen, Miracle Face, radiofréquence visage + LED, Hydra Skin, O2 Glow (O2toDerm) ; drainage lymphatique méthode Renata França (1 h, 150 €), Body Reset Signature, drainage femme enceinte, sauna dôme, madérothérapie, radiofréquence corps, lipocavitation ; head spa détente (85 €), Signature (160 €), duo et enfant ; massages Décompression et Résonance ; Hydra Bronze ; épilation définitive. Bilans visage et corps : 30 min, 30 €, déduits si un programme suit.
+
+Programmes : Face Reset 30 jours (390 €), Face Longevity 90 jours (890 €), Body Reset 30 jours (549 €), Body Sculpt 6 semaines (690 €). Mariée : Bridal Glow J-7 (135 €), Bridal Reset 30 jours (360 €), Bridal Longevity 90 jours (890 €). Formations : The Body Academy, sur demande.
+
+Horaires : du lundi au vendredi 9 h – 19 h, le samedi 10 h – 18 h ; fermé le dimanche.
+
+Réservation : en ligne sur Planity (https://www.planity.com/the-body-by-ami-80000-amiens). Programmes, mariée, Academy et cartes cadeaux : demande par WhatsApp.
+
+## Pages
+
+- [Accueil](https://the-body-by-ami.vercel.app/fr) : soins et prix, programmes, mariée, équipe, presse, Academy, infos pratiques, FAQ
+- [Drainage lymphatique Renata França à Amiens](https://the-body-by-ami.vercel.app/fr/drainage-lymphatique-amiens)
+- [Kobido à Amiens](https://the-body-by-ami.vercel.app/fr/kobido-amiens)
+- [Face Pilates Signature à Amiens](https://the-body-by-ami.vercel.app/fr/face-pilates-amiens)
+- [Head spa à Amiens](https://the-body-by-ami.vercel.app/fr/head-spa-amiens)
+- [Demande (programme, mariée, Academy, carte cadeau)](https://the-body-by-ami.vercel.app/fr/demande)
+- [English version](https://the-body-by-ami.vercel.app/en)
+- [Instagram](https://www.instagram.com/thebodybyami/)

@@ -1,0 +1,358 @@
+{
+  "meta": {
+    "title": "Lymphatic drainage, Kobido and facials in Amiens | The Body by Ami",
+    "description": "Face, body and longevity institute at 58 rue des Jacobins, Amiens: Face Pilates, Kobido, Renata França lymphatic drainage, head spa and multi-week programmes. Rated 4.9/5 on Google.",
+    "ogAlt": "A facial at The Body by Ami in Amiens: glowing skin just after the treatment"
+  },
+  "nav": {
+    "visage": "Face",
+    "corps": "Body",
+    "headspa": "Head spa",
+    "programmes": "Programmes",
+    "academy": "Academy",
+    "infos": "Visit",
+    "book": "Book",
+    "menu": "Menu",
+    "close": "Close menu",
+    "home": "The Body by Ami, home",
+    "skip": "Skip to content",
+    "lang": "Language",
+    "instagram": "The Body by Ami on Instagram",
+    "call": "Call",
+    "whatsapp": "Message on WhatsApp",
+    "planityNote": "Booking opens on Planity"
+  },
+  "intro": { "skip": "Skip" },
+  "announce": { "close": "Close banner" },
+  "status": {
+    "open": "Open",
+    "closed": "Closed",
+    "until": "until {time}",
+    "reopens": "opens {day} at {time}",
+    "today": "today",
+    "tomorrow": "tomorrow"
+  },
+  "days": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+  "rating": {
+    "google": "{value}/5 on Google",
+    "planity": "{value}/5 on Planity",
+    "count": "{count} reviews",
+    "asOf": "Rating checked in {date}",
+    "award": "“Best aesthetic concept 2026”"
+  },
+  "hero": {
+    "eyebrow": "Face · Body · Longevity · Amiens",
+    "title": "Tailored protocols, results you can see",
+    "lead": "A face and body institute where every treatment starts by listening to you. Hands-on techniques, carefully chosen technology, and follow-up over time.",
+    "book": "Book a treatment",
+    "bilan": "Book my assessment"
+  },
+  "bar": {
+    "label": "Find a treatment and book",
+    "service": "Treatment",
+    "duration": "Length",
+    "day": "Preferred day",
+    "any": "All treatments",
+    "durAny": "Any length",
+    "dayAny": "As soon as possible",
+    "submit": "See available times",
+    "suggestion": "Our suggestion",
+    "hint": "On Planity, choose “{soin}”{day}.",
+    "hintDay": ", then {day}",
+    "none": "No treatment of that length in this category: try another length.",
+    "durations": { "court": "Under 45 min", "moyen": "45 min to 1h15", "long": "1h30 or more" },
+    "cats": { "visage": "Face", "corps": "Body and drainage", "head-spa": "Head spa", "massages": "Massage", "bilans": "Assessment" }
+  },
+  "tiles": {
+    "eyebrow": "Our worlds",
+    "title": "Where to start?",
+    "items": {
+      "visage": { "title": "Face", "text": "Face Pilates, Kobido, Hydra Skin, Korean lift" },
+      "corps": { "title": "Body and drainage", "text": "Renata França method, dome sauna, wood therapy" },
+      "headspa": { "title": "Head spa", "text": "Scalp care, water and a real pause" },
+      "programmes": { "title": "Programmes", "text": "30 days, 6 weeks or 90 days, with follow-up" },
+      "mariee": { "title": "Brides", "text": "Preparing skin and face before the big day" },
+      "academy": { "title": "Academy", "text": "Training in The Body protocols" }
+    }
+  },
+  "method": {
+    "eyebrow": "The method",
+    "title": "We no longer work on anti-ageing. We work on your longevity.",
+    "lead": "No treatment picked at random: we start from your face, your body and your pace, then build your plan.",
+    "steps": [
+      { "title": "The assessment", "text": "Thirty minutes to look, ask questions and understand what you would like to improve. The €30 is deducted if you then choose a programme." },
+      { "title": "Hands", "text": "Face Pilates, Kobido, Renata França drainage, wood therapy: precise manual work, adapted to each face and body." },
+      { "title": "Technology", "text": "Radiofrequency, LED, Hydra Skin, O2toDerm, lipocavitation. Used when they make sense for you, never by default." },
+      { "title": "Recovery", "text": "Dome sauna, head spa, massage. The body also needs to let go for the rest to last." }
+    ],
+    "cta": "Book my assessment",
+    "note": "Our assessments are about beauty and wellbeing and do not replace medical advice. If needed, we will refer you to a health professional."
+  },
+  "soins": {
+    "eyebrow": "The menu",
+    "title": "Treatments and prices",
+    "lead": "All our prices, as listed on Planity. Booking is online, 24/7, with instant confirmation.",
+    "book": "Book",
+    "more": "Learn more",
+    "duration": "{time}",
+    "onPlanity": "Price on Planity",
+    "asOf": "Prices checked in November 2026; please confirm on Planity when booking.",
+    "cta": "Full menu on Planity"
+  },
+  "offers": {
+    "eyebrow": "Current offer",
+    "until": "Until {date}",
+    "was": "instead of {price}",
+    "cta": "Gift it on Planity",
+    "or": "or ask for a gift card"
+  },
+  "programmes": {
+    "eyebrow": "Programmes",
+    "title": "Some goals take time",
+    "lead": "Several sessions spread over weeks, with an assessment at the start and follow-up along the way. Three programmes side by side.",
+    "rows": { "length": "Length", "sessions": "Sessions", "includes": "What's included", "for": "Who it's for", "price": "Price" },
+    "sessionsN": "{n} appointments",
+    "sessionsBilan": "Set at the assessment",
+    "featured": "Most complete",
+    "cta": "Ask about this programme",
+    "book": "Book on Planity",
+    "also": "Also",
+    "alsoText": "{name}, {length}: {for} {price}.",
+    "help": "Not sure? That is exactly what the assessment is for."
+  },
+  "bridal": {
+    "eyebrow": "Brides",
+    "title": "Arrive at your wedding with rested skin",
+    "lead": "A ritual the week of the wedding, or a one- or three-month preparation. We talk first, then plan the calendar around your date.",
+    "cta": "Prepare for my wedding"
+  },
+  "team": {
+    "eyebrow": "The team",
+    "title": "Ami and her practitioners",
+    "founder": {
+      "eyebrow": "Founder",
+      "name": "Ami",
+      "role": "Founder of The Body by Ami and Studio 27",
+      "text": "Ami created The Body as a place where aesthetics meets wellbeing. She developed Signature Face Pilates, a hands-on protocol that works on the muscles, tension and skin of the face. Her idea: not to change a face, but to look after it over time.",
+      "cta": "Book with Ami"
+    },
+    "toConfirm": "Role to be confirmed",
+    "initial": "Portrait coming soon"
+  },
+  "press": {
+    "eyebrow": "Press and awards",
+    "title": "In the press",
+    "award": "Award",
+    "pressKind": "Press"
+  },
+  "academy": {
+    "eyebrow": "The Body Academy",
+    "title": "Train in The Body protocols",
+    "lead": "Ami passes on her methods to beauty professionals who want to work on the face differently. Programmes, dates and prices are available on request.",
+    "courses": [
+      { "title": "Signature Face Pilates", "text": "The hands-on face protocol: muscle work, facial stretching, sculpting moves and drainage." },
+      { "title": "Manual face techniques", "text": "Kobido and facial drainage: the movements and how they flow together." },
+      { "title": "Tailored training", "text": "For a salon or a team: content and schedule set together." }
+    ],
+    "cta": "I want to train",
+    "note": "Course content is being finalised: message us to receive the programme."
+  },
+  "beforeAfter": {
+    "eyebrow": "Before / after",
+    "title": "What our clients see",
+    "lead": "Photos shared with our clients' consent, unretouched. Every body responds at its own pace: we do not promise measurable results.",
+    "before": "Before",
+    "after": "After",
+    "handle": "Drag to compare before and after",
+    "more": "More results on Instagram"
+  },
+  "reviews": {
+    "title": "What reviews keep mentioning",
+    "themes": ["The team's kindness", "The lymphatic drainage", "Clear explanations before each treatment", "Clients who travel a long way"],
+    "google": "Read Google reviews",
+    "planity": "Read Planity reviews"
+  },
+  "infos": {
+    "eyebrow": "Visit",
+    "title": "Finding the institute",
+    "address": "Address",
+    "route": "Directions",
+    "phone": "Phone and WhatsApp",
+    "hours": "Opening hours",
+    "access": "Access",
+    "accessText": "The institute is on the 1st floor of 58 rue des Jacobins, in the centre of Amiens. Please allow a few minutes to settle in before your treatment.",
+    "closedDay": "Closed",
+    "closures": "Exceptional closures",
+    "mapTitle": "Map: The Body by Ami, 58 rue des Jacobins, Amiens"
+  },
+  "faq": {
+    "eyebrow": "Questions",
+    "title": "Before you come",
+    "items": [
+      { "q": "I don't know which treatment to choose. Where should I start?", "a": "With a face and skin assessment, or a body assessment: 30 minutes, €30. Your practitioner looks, asks questions and suggests a treatment or a programme. The €30 is deducted if you then choose a programme." },
+      { "q": "I'm pregnant. Can I come?", "a": "Yes, with suitable treatments. We offer a pregnancy drainage (40 min). Some technologies, such as radiofrequency or lipocavitation, are not used during pregnancy. Mention it when booking and check with your doctor or midwife." },
+      { "q": "Are there contraindications?", "a": "Yes, depending on the technique: pregnancy, some medical treatments, circulation problems, implants, skin conditions in a flare-up. We check them at the assessment. If in doubt, we refer you to a health professional." },
+      { "q": "How many sessions will I need?", "a": "It depends on your goal. A single treatment feels good, but some results need regularity: that is what the 30-day, 6-week and 90-day programmes are for. We discuss it at the assessment." },
+      { "q": "Do you offer gift cards?", "a": "Yes. Gift cards are sold on Planity, with the “Offrir” (gift) button. For a programme or a special request, message us on WhatsApp." },
+      { "q": "How do I cancel or move an appointment?", "a": "From your Planity account, or by messaging us on WhatsApp at +33 6 23 08 10 54. Please let us know as early as possible so another client can take the slot." }
+    ]
+  },
+  "footer": {
+    "tagline": "Face, body and longevity institute in Amiens. Face · Body · Longevity.",
+    "contact": "Find us",
+    "pages": "Treatments",
+    "legal": "Legal notice",
+    "rights": "The Body by Ami. All rights reserved.",
+    "booking": "Book on Planity",
+    "days": "Monday to Friday, 9am – 7pm\nSaturday, 10am – 6pm",
+    "closed": "Closed on Sundays"
+  },
+  "whatsapp": {
+    "default": "Hello Ami, I have a question about a treatment.",
+    "label": "Message The Body by Ami on WhatsApp"
+  },
+  "demande": {
+    "metaTitle": "Programme, training or gift card request | The Body by Ami, Amiens",
+    "metaDescription": "Face and body programmes, bridal offers, Academy training, gift cards: send your request to The Body by Ami on WhatsApp for a quick reply.",
+    "eyebrow": "Your request",
+    "title": "Tell us about your plans",
+    "lead": "For a programme, bridal preparation, training or a gift card. A few questions, then your request opens in WhatsApp: you check it before sending.",
+    "planity": "For a single treatment, book directly on Planity.",
+    "type": "Your request is about",
+    "types": { "programme": "A programme", "mariee": "A bridal offer", "academy": "Academy training", "cadeau": "A gift card" },
+    "option": "Which one?",
+    "optionAny": "I'm not sure yet",
+    "date": "Preferred date",
+    "dateMariee": "Wedding date",
+    "dateHint": "Optional",
+    "goal": "Your goal",
+    "goalPh": "E.g. a more rested face, feeling lighter, training in Face Pilates…",
+    "goalCadeau": "Who is it for, and which treatment or amount?",
+    "name": "Full name",
+    "phone": "Phone",
+    "email": "Email",
+    "optional": "optional",
+    "submit": "Send on WhatsApp",
+    "privacy": "Your details are only used to reply to you. Nothing is stored on this site: the message is sent from your own WhatsApp.",
+    "errors": { "type": "Please choose a request type.", "name": "Please enter your name.", "phone": "Please enter a valid phone number.", "email": "This email address looks incomplete." },
+    "sent": "WhatsApp has opened with your message. Just press send.",
+    "fallback": "WhatsApp didn't open? Use this link",
+    "wa": { "hello": "Hello Ami, here is my request:", "type": "Request", "option": "Choice", "date": "Preferred date", "goal": "Goal", "name": "Name", "phone": "Phone", "email": "Email" }
+  },
+  "pages": {
+    "drainage": {
+      "metaTitle": "Renata França lymphatic drainage in Amiens | The Body by Ami",
+      "metaDescription": "Renata França lymphatic drainage in Amiens: 1 hour, €150. A lighter feeling, less bloating, lighter legs. Pregnancy version available. Book online.",
+      "eyebrow": "Body · Renata França method",
+      "title": "Lymphatic drainage in Amiens",
+      "intro": "The institute's most requested drainage, and the one clients mention most in their reviews. Fast, rhythmic, firm movements that work on water retention and bloating.",
+      "price": "1h · €150",
+      "sections": [
+        { "title": "A method, not a relaxing massage", "text": "The Renata França method combines precise pressure and pumping movements in a set sequence. The pace is brisk: this is not a massage to fall asleep to, but focused work on lymph flow." },
+        { "title": "How it feels", "text": "Many clients describe feeling lighter, less bloated and with less heavy legs as they leave. The effect varies with each body and lifestyle: we do not promise weight loss." },
+        { "title": "On its own or as a programme", "text": "One session before an event, or the Body Reset: three drainages, three dome sauna sessions and a Miracle Face over 30 days." }
+      ],
+      "for": ["Feeling bloated or retaining water", "Heavy legs", "Before an event, a trip, a wedding", "After a tired or stressful period"],
+      "contra": "Drainage is not performed with untreated circulation problems, an ongoing infection or some medical treatments. Pregnant? We offer an adapted drainage (40 min, €75), with your doctor's approval.",
+      "faq": [
+        { "q": "How many drainage sessions do I need?", "a": "One session is enough to feel the effect. To make it last, we recommend several sessions close together, as in the Body Reset programme (3 drainages over 30 days)." },
+        { "q": "How should I prepare?", "a": "Drink plenty of water the day before and on the day, and avoid a heavy meal just before. Please be on time: the protocol lasts a full hour." },
+        { "q": "Does Renata França drainage hurt?", "a": "The movements are firm and fast, but should not hurt. Tell your practitioner if the pressure bothers you and she will adjust it." }
+      ]
+    },
+    "kobido": {
+      "metaTitle": "Kobido Japanese facial massage in Amiens | The Body by Ami",
+      "metaDescription": "Kobido in Amiens: Japanese facial massage, 1h15, €120. Brighter complexion, rested features, released tension. Book online at The Body by Ami.",
+      "eyebrow": "Face · Japanese massage",
+      "title": "Kobido in Amiens",
+      "intro": "Kobido is a facial massage from Japan. Precise, rhythmic and sometimes very fast movements that bring back radiance, work on firmness and release tension.",
+      "price": "1h15 · €120",
+      "sections": [
+        { "title": "A manual lift", "text": "With no needles or devices, Kobido works the tissues of the face, neck and neckline. The movements alternate tapping, kneading and smoothing." },
+        { "title": "How it feels", "text": "A more rested face, a fresher complexion and real relaxation. Kobido is also one of the treatments our clients most often give as a gift." },
+        { "title": "With Face Pilates", "text": "Kobido is part of the Face Reset programme, along with a Signature Face Pilates and a session chosen for your face." }
+      ],
+      "for": ["Dull complexion, tired features", "Jaw and forehead tension", "A facial without technology", "A gift for someone"],
+      "contra": "Kobido is not recommended with inflamed or broken skin, or just after an injection or a medical facial procedure. We check this with you before starting.",
+      "faq": [
+        { "q": "What is the difference between Kobido and Face Pilates?", "a": "Kobido is a Japanese massage with set movements. Signature Face Pilates is a longer protocol (1h30) that adds muscle work, facial stretching and sometimes intra-oral work." },
+        { "q": "Can I wear make-up after Kobido?", "a": "It is best to let your skin breathe for a few hours. If possible, come and leave without make-up." },
+        { "q": "How often should I have Kobido?", "a": "Once a month to maintain, or more often over a short period, before an event for example." }
+      ]
+    },
+    "facePilates": {
+      "metaTitle": "Signature Face Pilates in Amiens, Ami's facial | The Body by Ami",
+      "metaDescription": "Signature Face Pilates in Amiens: 1h30, €190. The hands-on face protocol developed by Ami: muscles, tension, drainage and skin quality. Book online.",
+      "eyebrow": "Face · Signature treatment",
+      "title": "Signature Face Pilates in Amiens",
+      "intro": "The house signature, developed by Ami. An hour and a half of hands-on work on the whole face: muscles, tension, tissue mobility and skin quality.",
+      "price": "1h30 · €190",
+      "sections": [
+        { "title": "Never the same twice", "text": "No two faces age the same way. The protocol adapts to your features: jawline, cheekbones, eyes, jaw, forehead or deeper lines." },
+        { "title": "1h30 of manual work", "text": "Facial muscle work, stretching, deep sculpting moves, drainage when the face is puffy, and intra-oral work when it is useful, to reach some tension in the lower face." },
+        { "title": "Over time", "text": "Face Pilates is at the heart of the Face Reset (30 days) and Face Longevity (90 days) programmes, with photo follow-up." }
+      ],
+      "for": ["A less defined jawline", "Clenched jaw, expression tension", "A puffy face in the morning", "Caring for your face without injections"],
+      "contra": "The treatment is adapted or postponed with broken skin, a cold sore flare-up, or just after an injection or medical facial procedure. We discuss it at the assessment.",
+      "faq": [
+        { "q": "Does Face Pilates replace injections?", "a": "They are different things and we do not present it that way. Face Pilates is manual work, with no needles: it works on tension, tone and skin quality, at its own pace." },
+        { "q": "How many sessions before I see a difference?", "a": "Many clients see a more rested face after the first session. For ongoing work, the Face Reset programme includes three over 30 days." },
+        { "q": "What is intra-oral work?", "a": "A few movements inside the cheek, with gloves, to reach certain muscles of the lower face. It is only done when useful, and with your consent." }
+      ]
+    },
+    "headSpa": {
+      "metaTitle": "Head spa in Amiens, scalp ritual | The Body by Ami",
+      "metaDescription": "Head spa in Amiens: relaxing 1h at €85, Signature 1h30 at €160, for two or for children aged 4 to 10. Scalp cleansing, water and massage. Book online.",
+      "eyebrow": "Scalp · Relaxation",
+      "title": "Head spa in Amiens",
+      "intro": "A water ritual for the scalp: a look at your scalp, cleansing, care and massage of the head, neck and shoulders. You close your eyes; we take care of the rest.",
+      "price": "From 1h · €85",
+      "sections": [
+        { "title": "How the ritual goes", "text": "We start by looking at your scalp and talking about your habits. Then scalp and hair are cleansed with products chosen for you, before the care and massage, in soft light." },
+        { "title": "Relaxing or Signature", "text": "The relaxing head spa includes 45 minutes of care. The Signature, our most complete protocol, goes further with the treatments and massage. Both are available for two, side by side." },
+        { "title": "Drying", "text": "You dry your hair yourself, with a hairdryer provided. No blow-dry or styling is done." }
+      ],
+      "for": ["A sensitive or oily scalp", "A need to switch off", "Time for two: mother and daughter, friends, couples", "Children aged 4 to 10, with “My first head spa”"],
+      "contra": "Tell us about any scalp lesion, recent surgery or pregnancy: the ritual is then adapted.",
+      "faq": [
+        { "q": "Should I come with clean hair?", "a": "No, the ritual starts with cleansing. Just avoid elaborate hairstyles or fragile extensions." },
+        { "q": "Can two people have a head spa together?", "a": "Yes: the duo head spa, relaxing or Signature, is done side by side. The listed price covers both people." },
+        { "q": "How does the children's head spa work?", "a": "“My first head spa” lasts 30 minutes, for ages 4 to 10: a gentle ritual suited to their age, with a parent present." }
+      ]
+    },
+    "related": "Related treatments",
+    "forTitle": "Who it's for",
+    "contraTitle": "Good to know",
+    "faqTitle": "Questions about this treatment",
+    "book": "Book this treatment",
+    "bilan": "Start with an assessment",
+    "back": "All treatments"
+  },
+  "legal": {
+    "metaTitle": "Legal notice | The Body by Ami",
+    "title": "Legal notice",
+    "editor": "Publisher",
+    "editorText": "The Body by Ami, 58 rue des Jacobins, 1st floor, 80000 Amiens, France. Phone: +33 6 23 08 10 54.",
+    "company": "Company name and SIRET",
+    "pending": "to be completed",
+    "director": "Publication director",
+    "host": "Hosting",
+    "photos": "Photos",
+    "photosText": "Photos: The Body by Ami. Client photos are published with their consent. Reproduction is forbidden without permission.",
+    "data": "Personal data",
+    "dataText": "This site sets no advertising cookies and stores no data. The request form prepares a WhatsApp message that you send yourself. Bookings are handled by Planity, under its own privacy policy."
+  },
+  "alt": {
+    "soin-visage-peau-lumineuse": "Client lying down after a facial, her skin glowing",
+    "face-pilates-pendant-le-soin": "A client's face during a Face Pilates treatment, hair under a cap",
+    "soin-visage-allongee": "Client lying on the treatment table, fresh-faced after a facial",
+    "drainage-lymphatique-mains": "The practitioner's hands during a leg lymphatic drainage",
+    "sauna-dome-lumiere": "Client under the dome sauna, in its red light",
+    "rituel-head-spa-eau": "Head spa ritual: the client lying back, hair in the water of the basin, frangipani flowers",
+    "ami-fondatrice": "Portrait of Ami, founder of The Body by Ami, smiling",
+    "ami-plateau-forbes": "Ami on the set of Forbes' show « Entreprises à succès »",
+    "vogue-article-facepilates": "Vogue beauty page about Facepilates, April 2026",
+    "silhouette-avant": "A client's abdomen, lying down, before drainage",
+    "silhouette-apres": "A client's abdomen, lying down, after drainage"
+  }
+}

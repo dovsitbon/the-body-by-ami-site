@@ -1,0 +1,13 @@
+{
+  "_note": "Avant / après publiés uniquement avec l'accord écrit de la cliente (consent: true). Les photos de visages publiées sur Instagram (dans assets/raw) attendent cet accord. Une paire sans accord ne s'affiche pas.",
+  "pairs": [
+    {
+      "id": "silhouette",
+      "before": "/media/avant-apres/silhouette-avant.jpg",
+      "after": "/media/avant-apres/silhouette-apres.jpg",
+      "consent": true,
+      "label": { "fr": "Ventre, avant et après une séance de drainage", "en": "Abdomen, before and after a drainage session" },
+      "alt": { "fr": "ventre d'une cliente allongée, visage non visible", "en": "a client's abdomen, lying down, face not shown" }
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "_note": "Programmes sur plusieurs semaines, relevés sur Planity le 5 novembre 2026. sessions = nombre de rendez-vous inclus (null = fixé au bilan). compare = affiché dans le comparateur à 3 colonnes ; featured = colonne mise en avant.",
+  "items": [
+    {
+      "id": "face-reset",
+      "compare": true,
+      "featured": false,
+      "price": 390,
+      "name": { "fr": "Face Reset", "en": "Face Reset" },
+      "length": { "fr": "30 jours", "en": "30 days" },
+      "sessions": 3,
+      "includes": {
+        "fr": ["1 Face Pilates Signature", "1 Kobido", "1 séance choisie selon votre visage", "Suivi photo"],
+        "en": ["1 Signature Face Pilates", "1 Kobido", "1 session chosen for your face", "Photo follow-up"]
+      },
+      "for": { "fr": "Un premier mois pour découvrir notre façon de travailler le visage.", "en": "A first month to discover how we work on the face." }
+    },
+    {
+      "id": "face-longevity",
+      "compare": true,
+      "featured": true,
+      "price": 890,
+      "name": { "fr": "Face Longevity", "en": "Face Longevity" },
+      "length": { "fr": "90 jours", "en": "90 days" },
+      "sessions": null,
+      "includes": {
+        "fr": ["Bilan initial", "Rendez-vous visage répartis sur trois mois", "Travail musculaire, massage, drainage et qualité de peau", "Technologies choisies selon vos besoins", "Suivi photo de l'évolution"],
+        "en": ["Initial assessment", "Face appointments spread over three months", "Muscle work, massage, drainage and skin quality", "Technologies chosen for your needs", "Photo follow-up"]
+      },
+      "for": { "fr": "Prendre soin de son visage dans la durée, avec un suivi régulier.", "en": "Long-term care for your face, with regular follow-up." }
+    },
+    {
+      "id": "body-reset",
+      "compare": true,
+      "featured": false,
+      "price": 549,
+      "name": { "fr": "Body Reset", "en": "Body Reset" },
+      "length": { "fr": "30 jours", "en": "30 days" },
+      "sessions": 7,
+      "includes": {
+        "fr": ["3 drainages lymphatiques corps entier", "3 séances de sauna dôme", "1 Miracle Face", "Bilan initial et suivi"],
+        "en": ["3 full-body lymphatic drainages", "3 dome sauna sessions", "1 Miracle Face", "Initial assessment and follow-up"]
+      },
+      "for": { "fr": "Retrouver une sensation de légèreté quand le corps se sent gonflé ou lourd.", "en": "Feeling lighter again when your body feels bloated or heavy." }
+    },
+    {
+      "id": "body-sculpt",
+      "compare": false,
+      "featured": false,
+      "price": 690,
+      "name": { "fr": "Body Sculpt", "en": "Body Sculpt" },
+      "length": { "fr": "6 semaines", "en": "6 weeks" },
+      "sessions": null,
+      "includes": {
+        "fr": ["Madérothérapie, radiofréquence, drainage et sauna dôme, dosés au bilan"],
+        "en": ["Wood therapy, radiofrequency, drainage and dome sauna, planned at the assessment"]
+      },
+      "for": { "fr": "Travailler la silhouette, la fermeté et la qualité de peau.", "en": "Working on body shape, firmness and skin quality." }
+    }
+  ],
+  "bridal": [
+    { "id": "bridal-glow", "price": 135, "name": { "fr": "Bridal Glow, le rituel J-7", "en": "Bridal Glow, the D-7 ritual" }, "length": { "fr": "Une séance d'1 h 15, la semaine du mariage", "en": "One 1h15 session, the week of the wedding" } },
+    { "id": "bridal-reset", "price": 360, "name": { "fr": "Bridal Reset", "en": "Bridal Reset" }, "length": { "fr": "Programme de 30 jours", "en": "30-day programme" } },
+    { "id": "bridal-longevity", "price": 890, "name": { "fr": "Bridal Longevity", "en": "Bridal Longevity" }, "length": { "fr": "Programme de 90 jours", "en": "90-day programme" } }
+  ]
+}

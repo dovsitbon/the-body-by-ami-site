@@ -1,0 +1,47 @@
+{
+  "name": "The Body by Ami",
+  "url": "https://the-body-by-ami.vercel.app",
+  "phone": "06 23 08 10 54",
+  "phoneIntl": "+33 6 23 08 10 54",
+  "tel": "+33623081054",
+  "whatsapp": "33623081054",
+  "email": null,
+  "bookingUrl": "https://www.planity.com/the-body-by-ami-80000-amiens",
+  "giftUrl": "https://www.planity.com/the-body-by-ami-80000-amiens",
+  "instagram": "https://www.instagram.com/thebodybyami/",
+  "instagramHandle": "@thebodybyami",
+  "address": {
+    "street": "58 rue des Jacobins",
+    "floor": {
+      "fr": "1er étage",
+      "en": "1st floor"
+    },
+    "postalCode": "80000",
+    "city": "Amiens",
+    "region": "Hauts-de-France",
+    "country": "FR"
+  },
+  "geo": null,
+  "maps": "https://www.google.com/maps/search/?api=1&query=The+Body+by+Ami+58+rue+des+Jacobins+80000+Amiens",
+  "mapsEmbed": "https://www.google.com/maps?q=The+Body+by+Ami,+58+rue+des+Jacobins,+80000+Amiens&z=16&output=embed",
+  "ratings": {
+    "google": {
+      "value": 4.9,
+      "count": 253,
+      "asOf": "2026-11-05",
+      "url": "https://www.google.com/maps/search/?api=1&query=The+Body+by+Ami+58+rue+des+Jacobins+80000+Amiens"
+    },
+    "planity": {
+      "value": 5,
+      "count": 575,
+      "asOf": "2026-11-05",
+      "url": "https://www.planity.com/the-body-by-ami-80000-amiens"
+    }
+  },
+  "legal": {
+    "company": null,
+    "siret": null,
+    "director": "Ami Sene",
+    "host": "Vercel Inc., 440 N Barranca Ave #4133, Covina, CA 91723, États-Unis"
+  }
+}

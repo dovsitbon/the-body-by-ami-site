@@ -1,0 +1,24 @@
+{
+  "_note": "Offres datées. Le bandeau du haut affiche l'offre active la plus récente (from ≤ aujourd'hui ≤ to, heure de Paris) ; la section « Offres » liste ses prestations. Tout disparaît seul après la date de fin. Prix relevés sur Planity le 5 novembre 2026.",
+  "items": [
+    {
+      "id": "noel-2026",
+      "from": "2026-11-01",
+      "to": "2026-12-24",
+      "title": { "fr": "Cartes cadeaux de Noël 2026", "en": "Christmas gift cards 2026" },
+      "text": {
+        "fr": "Cartes cadeaux de Noël : Miracle Face à 49 €, Kobido à 105 €, head spa à 75 €.",
+        "en": "Christmas gift cards: Miracle Face at €49, Kobido at €105, head spa at €75."
+      },
+      "link": { "fr": "Voir les offres", "en": "See the offers" },
+      "hash": "offres",
+      "list": [
+        { "name": { "fr": "Miracle Face", "en": "Miracle Face" }, "duration": 30, "price": 49, "was": 60 },
+        { "name": { "fr": "Kobido, l'éclat japonais", "en": "Kobido, Japanese radiance" }, "duration": 75, "price": 105, "was": 120 },
+        { "name": { "fr": "Le cadeau Glow (Hydra Skin + Hydra Bronze)", "en": "The Glow gift (Hydra Skin + Hydra Bronze)" }, "duration": 75, "price": 99, "was": null },
+        { "name": { "fr": "Head spa détente", "en": "Relaxing head spa" }, "duration": 60, "price": 75, "was": 85 },
+        { "name": { "fr": "Head spa duo détente, pour deux", "en": "Relaxing head spa for two" }, "duration": 60, "price": 149, "was": 170 }
+      ]
+    }
+  ]
+}

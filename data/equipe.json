@@ -1,0 +1,9 @@
+{
+  "_note": "Prénoms relevés sur Planity (novembre 2026). Rôles d'Anaïs et Janna à confirmer. photo = chemin dans public/media/equipe/ (null = pas encore de photo : l'initiale s'affiche).",
+  "founder": { "name": "Ami", "photo": "/media/equipe/ami-fondatrice.jpg" },
+  "members": [
+    { "id": "oceane", "name": "Océane", "role": { "fr": "Bilans bien-être et nutrition", "en": "Wellbeing and nutrition assessments" }, "photo": null, "confirmed": true },
+    { "id": "anais", "name": "Anaïs", "role": { "fr": "Praticienne visage et corps", "en": "Face and body practitioner" }, "photo": null, "confirmed": false },
+    { "id": "janna", "name": "Janna", "role": { "fr": "Praticienne visage et corps", "en": "Face and body practitioner" }, "photo": null, "confirmed": false }
+  ]
+}

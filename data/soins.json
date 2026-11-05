@@ -1,0 +1,73 @@
+{
+  "_note": "Carte des soins, relevée sur Planity le 5 novembre 2026. duration en minutes ; price en euros (null = prix affiché sur Planity uniquement). page = page dédiée du site.",
+  "categories": [
+    {
+      "id": "bilans",
+      "name": { "fr": "Bilans, pour commencer", "en": "Assessments, to begin" },
+      "items": [
+        { "id": "bilan-visage", "name": { "fr": "Bilan visage et peau", "en": "Face and skin assessment" }, "duration": 30, "price": 30, "note": { "fr": "Déduit si vous choisissez un programme ensuite", "en": "Deducted if you then choose a programme" } },
+        { "id": "bilan-corps", "name": { "fr": "Bilan corps", "en": "Body assessment" }, "duration": 30, "price": 30, "note": { "fr": "Déduit si vous choisissez un programme ensuite", "en": "Deducted if you then choose a programme" } },
+        { "id": "bilan-nutrition", "name": { "fr": "Bilan bien-être et nutrition, avec Océane", "en": "Wellbeing and nutrition assessment, with Océane" }, "duration": 60, "price": null }
+      ]
+    },
+    {
+      "id": "visage",
+      "name": { "fr": "Visage", "en": "Face" },
+      "items": [
+        { "id": "face-pilates", "name": { "fr": "Face Pilates Signature", "en": "Signature Face Pilates" }, "duration": 90, "price": 190, "page": "facePilates" },
+        { "id": "kobido", "name": { "fr": "Kobido, lifting manuel japonais", "en": "Kobido, Japanese manual face lift" }, "duration": 75, "price": 120, "page": "kobido" },
+        { "id": "lift-coreen", "name": { "fr": "Lift coréen", "en": "Korean lift" }, "duration": 35, "price": 115 },
+        { "id": "miracle-face", "name": { "fr": "Miracle Face, drainage du visage", "en": "Miracle Face, facial drainage" }, "duration": 30, "price": 60 },
+        { "id": "radiofrequence-visage", "name": { "fr": "Radiofréquence visage + LED", "en": "Facial radiofrequency + LED" }, "duration": 45, "price": 75 },
+        { "id": "hydra-skin", "name": { "fr": "Hydra Skin", "en": "Hydra Skin" }, "duration": 60, "price": 95 },
+        { "id": "o2-glow", "name": { "fr": "O2 Glow, O2toDerm", "en": "O2 Glow, O2toDerm" }, "duration": 50, "price": 100 }
+      ]
+    },
+    {
+      "id": "corps",
+      "name": { "fr": "Corps et drainage", "en": "Body and drainage" },
+      "items": [
+        { "id": "drainage", "name": { "fr": "Drainage lymphatique, méthode Renata França", "en": "Lymphatic drainage, Renata França method" }, "duration": 60, "price": 150, "page": "drainage" },
+        { "id": "body-reset-signature", "name": { "fr": "Body Reset Signature, drainage + sauna dôme", "en": "Signature Body Reset, drainage + dome sauna" }, "duration": 105, "price": 175 },
+        { "id": "drainage-corps-visage", "name": { "fr": "Drainage corps + visage", "en": "Body + face drainage" }, "duration": 90, "price": 200 },
+        { "id": "drainage-grossesse", "name": { "fr": "Drainage femme enceinte", "en": "Pregnancy drainage" }, "duration": 40, "price": 75 },
+        { "id": "sauna-dome", "name": { "fr": "Sauna dôme", "en": "Dome sauna" }, "duration": 45, "price": 42 },
+        { "id": "sauna-enveloppement", "name": { "fr": "Sauna dôme découverte avec enveloppement", "en": "Dome sauna discovery with body wrap" }, "duration": 75, "price": 60 },
+        { "id": "madero-haut", "name": { "fr": "Madérothérapie, haut du corps", "en": "Wood therapy, upper body" }, "duration": 40, "price": 80 },
+        { "id": "madero-bas", "name": { "fr": "Madérothérapie, bas du corps", "en": "Wood therapy, lower body" }, "duration": 45, "price": 90 },
+        { "id": "radiofrequence-corps", "name": { "fr": "Radiofréquence corps, une zone", "en": "Body radiofrequency, one area" }, "duration": 30, "price": 60 },
+        { "id": "lipocavitation", "name": { "fr": "Lipocavitation, une zone", "en": "Lipocavitation, one area" }, "duration": 30, "price": 50 }
+      ]
+    },
+    {
+      "id": "head-spa",
+      "name": { "fr": "Head spa", "en": "Head spa" },
+      "items": [
+        { "id": "head-spa-detente", "name": { "fr": "Head spa détente", "en": "Relaxing head spa" }, "duration": 60, "price": 85, "page": "headSpa" },
+        { "id": "head-spa-signature", "name": { "fr": "Head spa Signature", "en": "Signature head spa" }, "duration": 90, "price": 160, "page": "headSpa" },
+        { "id": "head-spa-duo", "name": { "fr": "Head spa duo détente, pour deux", "en": "Relaxing head spa for two" }, "duration": 60, "price": 170 },
+        { "id": "head-spa-duo-signature", "name": { "fr": "Head spa duo Signature, pour deux", "en": "Signature head spa for two" }, "duration": 90, "price": 320 },
+        { "id": "head-spa-enfant", "name": { "fr": "Mon premier head spa, de 4 à 10 ans", "en": "My first head spa, ages 4 to 10" }, "duration": 30, "price": 49 }
+      ]
+    },
+    {
+      "id": "massages",
+      "name": { "fr": "Massages et récupération", "en": "Massage and recovery" },
+      "items": [
+        { "id": "decompression", "name": { "fr": "Rituel Décompression", "en": "Decompression ritual" }, "duration": 60, "price": 110 },
+        { "id": "resonance", "name": { "fr": "Résonance, massage sport et récupération", "en": "Résonance, sport and recovery massage" }, "duration": 60, "price": 130 }
+      ]
+    },
+    {
+      "id": "express",
+      "name": { "fr": "Beauty express et épilation", "en": "Beauty express and hair removal" },
+      "items": [
+        { "id": "hydra-bronze-visage", "name": { "fr": "Hydra Bronze, visage et décolleté", "en": "Hydra Bronze, face and neckline" }, "duration": 15, "price": 25 },
+        { "id": "hydra-bronze-bras", "name": { "fr": "Hydra Bronze, visage, décolleté et bras", "en": "Hydra Bronze, face, neckline and arms" }, "duration": 15, "price": 35 },
+        { "id": "hydra-bronze-corps", "name": { "fr": "Hydra Bronze, corps + visage", "en": "Hydra Bronze, body + face" }, "duration": 20, "price": 49 },
+        { "id": "bilan-epilation", "name": { "fr": "Bilan épilation définitive (test flash)", "en": "Permanent hair removal assessment (patch test)" }, "duration": 45, "price": 30 },
+        { "id": "forfaits-epilation", "name": { "fr": "Forfaits épilation définitive, 8 séances, femme et homme", "en": "Permanent hair removal packages, 8 sessions, women and men" }, "duration": null, "price": null }
+      ]
+    }
+  ]
+}

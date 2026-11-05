@@ -1,0 +1,358 @@
+{
+  "meta": {
+    "title": "Drainage lymphatique, Kobido et soins visage à Amiens | The Body by Ami",
+    "description": "Institut visage, corps et longévité au 58 rue des Jacobins à Amiens : Face Pilates, Kobido, drainage lymphatique méthode Renata França, head spa, programmes sur plusieurs semaines. 4,9/5 sur Google.",
+    "ogAlt": "Soin du visage chez The Body by Ami à Amiens : la peau lumineuse juste après le soin"
+  },
+  "nav": {
+    "visage": "Visage",
+    "corps": "Corps",
+    "headspa": "Head spa",
+    "programmes": "Programmes",
+    "academy": "Academy",
+    "infos": "Infos",
+    "book": "Réserver",
+    "menu": "Menu",
+    "close": "Fermer le menu",
+    "home": "The Body by Ami, accueil",
+    "skip": "Aller au contenu",
+    "lang": "Langue",
+    "instagram": "Instagram de The Body by Ami",
+    "call": "Appeler",
+    "whatsapp": "Écrire sur WhatsApp",
+    "planityNote": "La réservation s'ouvre sur Planity"
+  },
+  "intro": { "skip": "Passer" },
+  "announce": { "close": "Fermer le bandeau" },
+  "status": {
+    "open": "Ouvert",
+    "closed": "Fermé",
+    "until": "jusqu'à {time}",
+    "reopens": "réouverture {day} à {time}",
+    "today": "aujourd'hui",
+    "tomorrow": "demain"
+  },
+  "days": ["dimanche", "lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi"],
+  "rating": {
+    "google": "{value}/5 sur Google",
+    "planity": "{value}/5 sur Planity",
+    "count": "{count} avis",
+    "asOf": "Note relevée en {date}",
+    "award": "« Meilleur concept esthétique 2026 »"
+  },
+  "hero": {
+    "eyebrow": "Face · Body · Longevity · Amiens",
+    "title": "Des protocoles sur mesure, des résultats qui se voient",
+    "lead": "Un institut du visage et du corps où chaque soin commence par vous écouter. Techniques manuelles, technologies choisies avec soin, et un suivi dans le temps.",
+    "book": "Réserver un soin",
+    "bilan": "Faire mon bilan"
+  },
+  "bar": {
+    "label": "Trouver un soin et réserver",
+    "service": "Type de soin",
+    "duration": "Durée",
+    "day": "Jour souhaité",
+    "any": "Tous les soins",
+    "durAny": "Peu importe",
+    "dayAny": "Dès que possible",
+    "submit": "Voir les créneaux",
+    "suggestion": "Notre suggestion",
+    "hint": "Sur Planity, choisissez « {soin} »{day}.",
+    "hintDay": ", puis le {day}",
+    "none": "Aucun soin de cette durée dans cette catégorie : essayez une autre durée.",
+    "durations": { "court": "Moins de 45 min", "moyen": "45 min à 1 h 15", "long": "1 h 30 et plus" },
+    "cats": { "visage": "Visage", "corps": "Corps et drainage", "head-spa": "Head spa", "massages": "Massage", "bilans": "Bilan" }
+  },
+  "tiles": {
+    "eyebrow": "Nos univers",
+    "title": "Par où commencer ?",
+    "items": {
+      "visage": { "title": "Visage", "text": "Face Pilates, Kobido, Hydra Skin, lift coréen" },
+      "corps": { "title": "Corps et drainage", "text": "Méthode Renata França, sauna dôme, madérothérapie" },
+      "headspa": { "title": "Head spa", "text": "Le cuir chevelu, l'eau et un vrai temps de pause" },
+      "programmes": { "title": "Programmes", "text": "30 jours, 6 semaines ou 90 jours, avec un suivi" },
+      "mariee": { "title": "Mariée", "text": "Préparer sa peau et son visage avant le grand jour" },
+      "academy": { "title": "Academy", "text": "Se former aux protocoles The Body" }
+    }
+  },
+  "method": {
+    "eyebrow": "La méthode",
+    "title": "Nous ne travaillons plus sur l'anti-âge. Nous travaillons sur votre longévité.",
+    "lead": "Pas de soin choisi au hasard : on part de votre visage, de votre corps et de votre rythme, puis on construit le parcours.",
+    "steps": [
+      { "title": "Le bilan", "text": "Trente minutes pour observer, poser des questions et comprendre ce que vous voulez améliorer. Les 30 € sont déduits si vous choisissez un programme ensuite." },
+      { "title": "Les mains", "text": "Face Pilates, Kobido, drainage Renata França, madérothérapie : un travail manuel précis, adapté à chaque morphologie." },
+      { "title": "Les technologies", "text": "Radiofréquence, LED, Hydra Skin, O2toDerm, lipocavitation. Utilisées quand elles ont un sens pour vous, jamais par défaut." },
+      { "title": "La récupération", "text": "Sauna dôme, head spa, massages. Le corps a aussi besoin de relâcher pour que le reste tienne." }
+    ],
+    "cta": "Réserver mon bilan",
+    "note": "Nos bilans sont esthétiques et bien-être : ils ne remplacent pas un avis médical. Si besoin, nous vous orientons vers un professionnel de santé."
+  },
+  "soins": {
+    "eyebrow": "La carte",
+    "title": "Les soins et leurs prix",
+    "lead": "Tous nos tarifs, tels qu'ils figurent sur Planity. La réservation se fait en ligne, 24 h/24, avec confirmation immédiate.",
+    "book": "Réserver",
+    "more": "En savoir plus",
+    "duration": "{time}",
+    "onPlanity": "Tarif sur Planity",
+    "asOf": "Prix relevés en novembre 2026, à confirmer sur Planity au moment de réserver.",
+    "cta": "Toute la carte sur Planity"
+  },
+  "offers": {
+    "eyebrow": "Offre du moment",
+    "until": "Jusqu'au {date}",
+    "was": "au lieu de {price}",
+    "cta": "Offrir sur Planity",
+    "or": "ou demander une carte cadeau"
+  },
+  "programmes": {
+    "eyebrow": "Programmes",
+    "title": "Certains objectifs demandent du temps",
+    "lead": "Plusieurs séances, réparties sur des semaines, avec un bilan au départ et un suivi. Trois programmes à comparer.",
+    "rows": { "length": "Durée", "sessions": "Séances", "includes": "Ce qui est inclus", "for": "Pour qui", "price": "Prix" },
+    "sessionsN": "{n} rendez-vous",
+    "sessionsBilan": "Fixées au bilan",
+    "featured": "Le plus complet",
+    "cta": "Demander ce programme",
+    "book": "Réserver sur Planity",
+    "also": "Aussi",
+    "alsoText": "{name}, {length} : {for} {price}.",
+    "help": "Vous hésitez ? Le bilan sert précisément à choisir."
+  },
+  "bridal": {
+    "eyebrow": "Mariée",
+    "title": "Arriver au mariage avec une peau reposée",
+    "lead": "Un rituel la semaine du mariage, ou une préparation sur un ou trois mois. On en parle d'abord, puis on cale le calendrier sur votre date.",
+    "cta": "Préparer mon mariage"
+  },
+  "team": {
+    "eyebrow": "L'équipe",
+    "title": "Ami et ses praticiennes",
+    "founder": {
+      "eyebrow": "Fondatrice",
+      "name": "Ami",
+      "role": "Fondatrice de The Body by Ami et du Studio 27",
+      "text": "Ami a imaginé The Body comme un cabinet où l'esthétique rencontre le bien-être. Elle a développé le Face Pilates Signature, un protocole manuel qui travaille les muscles, les tensions et la peau du visage. Son idée : ne pas transformer un visage, mais en prendre soin dans le temps.",
+      "cta": "Réserver avec Ami"
+    },
+    "toConfirm": "Rôle à confirmer",
+    "initial": "Portrait à venir"
+  },
+  "press": {
+    "eyebrow": "Presse et récompenses",
+    "title": "On parle de The Body",
+    "award": "Récompense",
+    "pressKind": "Presse"
+  },
+  "academy": {
+    "eyebrow": "The Body Academy",
+    "title": "Se former aux protocoles The Body",
+    "lead": "Ami transmet ses méthodes aux professionnelles de l'esthétique qui veulent travailler le visage autrement. Les programmes, dates et tarifs sont communiqués sur demande.",
+    "courses": [
+      { "title": "Face Pilates Signature", "text": "Le protocole manuel du visage : travail musculaire, stretching facial, manœuvres sculptantes et drainage." },
+      { "title": "Techniques manuelles du visage", "text": "Kobido et drainage du visage, les gestes et leur enchaînement." },
+      { "title": "Formation sur mesure", "text": "Pour un institut ou une équipe : contenu et calendrier à définir ensemble." }
+    ],
+    "cta": "Je veux me former",
+    "note": "Contenus en cours de finalisation : écrivez-nous pour recevoir le programme."
+  },
+  "beforeAfter": {
+    "eyebrow": "Avant / après",
+    "title": "Ce que nos clientes voient",
+    "lead": "Des photos publiées avec l'accord des clientes, sans retouche. Chaque corps réagit à son rythme : nous ne promettons pas de résultat chiffré.",
+    "before": "Avant",
+    "after": "Après",
+    "handle": "Faire glisser pour comparer avant et après",
+    "more": "D'autres résultats sur Instagram"
+  },
+  "reviews": {
+    "title": "Ce qui revient dans les avis",
+    "themes": ["La bienveillance de l'équipe", "Le drainage lymphatique", "Les explications avant chaque soin", "Des clientes qui viennent de loin"],
+    "google": "Lire les avis Google",
+    "planity": "Lire les avis Planity"
+  },
+  "infos": {
+    "eyebrow": "Infos pratiques",
+    "title": "Venir à l'institut",
+    "address": "Adresse",
+    "route": "Itinéraire",
+    "phone": "Téléphone et WhatsApp",
+    "hours": "Horaires",
+    "access": "Accès",
+    "accessText": "L'institut est au 1er étage du 58 rue des Jacobins, dans le centre-ville d'Amiens. Prévoyez quelques minutes d'avance pour vous installer avant votre soin.",
+    "closedDay": "Fermé",
+    "closures": "Fermetures exceptionnelles",
+    "mapTitle": "Carte : The Body by Ami, 58 rue des Jacobins à Amiens"
+  },
+  "faq": {
+    "eyebrow": "Questions fréquentes",
+    "title": "Avant de venir",
+    "items": [
+      { "q": "Je ne sais pas quel soin choisir. Par quoi commencer ?", "a": "Par un bilan visage et peau, ou un bilan corps : 30 minutes, 30 €. Votre praticienne observe, vous pose des questions et vous propose un soin ou un programme. Les 30 € sont déduits si vous choisissez un programme ensuite." },
+      { "q": "Je suis enceinte, puis-je venir ?", "a": "Oui, avec des soins adaptés. Nous proposons un drainage spécial femme enceinte (40 min). Certaines technologies, comme la radiofréquence ou la lipocavitation, ne sont pas pratiquées pendant la grossesse. Signalez-le à la réservation, et demandez l'avis de votre médecin ou de votre sage-femme." },
+      { "q": "Y a-t-il des contre-indications ?", "a": "Oui, selon les techniques : grossesse, certains traitements, problèmes circulatoires, implants, maladies de peau en poussée. Nous les vérifions pendant le bilan. En cas de doute, nous vous orientons vers un professionnel de santé." },
+      { "q": "Combien de séances faut-il ?", "a": "Cela dépend de votre objectif. Un soin ponctuel fait du bien, mais certains résultats demandent de la régularité : c'est le rôle des programmes de 30 jours, 6 semaines ou 90 jours. Nous en parlons au bilan." },
+      { "q": "Proposez-vous des cartes cadeaux ?", "a": "Oui. Les cartes cadeaux s'achètent sur Planity, avec le bouton « Offrir ». Pour un programme ou une demande particulière, écrivez-nous sur WhatsApp." },
+      { "q": "Comment annuler ou déplacer un rendez-vous ?", "a": "Directement depuis votre compte Planity, ou en nous écrivant sur WhatsApp au 06 23 08 10 54. Merci de nous prévenir au plus tôt pour que le créneau profite à une autre cliente." }
+    ]
+  },
+  "footer": {
+    "tagline": "Institut visage, corps et longévité à Amiens. Face · Body · Longevity.",
+    "contact": "Nous trouver",
+    "pages": "Les soins",
+    "legal": "Mentions légales",
+    "rights": "The Body by Ami. Tous droits réservés.",
+    "booking": "Réserver sur Planity",
+    "days": "Du lundi au vendredi, 9 h – 19 h\nLe samedi, 10 h – 18 h",
+    "closed": "Fermé le dimanche"
+  },
+  "whatsapp": {
+    "default": "Bonjour Ami, j'ai une question au sujet d'un soin.",
+    "label": "Écrire à The Body by Ami sur WhatsApp"
+  },
+  "demande": {
+    "metaTitle": "Demande de programme, formation ou carte cadeau | The Body by Ami, Amiens",
+    "metaDescription": "Programmes visage et corps, offres mariée, Academy, cartes cadeaux : envoyez votre demande à The Body by Ami sur WhatsApp, réponse rapide.",
+    "eyebrow": "Votre demande",
+    "title": "Parlons de votre projet",
+    "lead": "Pour un programme, une préparation mariée, une formation ou une carte cadeau. Quelques questions, puis votre demande part sur WhatsApp : vous gardez la main avant l'envoi.",
+    "planity": "Pour un soin simple, la réservation se fait directement sur Planity.",
+    "type": "Votre demande concerne",
+    "types": { "programme": "Un programme", "mariee": "Une offre mariée", "academy": "Une formation Academy", "cadeau": "Une carte cadeau" },
+    "option": "Lequel ?",
+    "optionAny": "Je ne sais pas encore",
+    "date": "Date souhaitée",
+    "dateMariee": "Date du mariage",
+    "dateHint": "Facultatif",
+    "goal": "Votre objectif",
+    "goalPh": "Ex. : retrouver un visage plus reposé, me sentir plus légère, me former au Face Pilates…",
+    "goalCadeau": "Pour qui, et pour quel montant ou quel soin ?",
+    "name": "Prénom et nom",
+    "phone": "Téléphone",
+    "email": "E-mail",
+    "optional": "facultatif",
+    "submit": "Envoyer sur WhatsApp",
+    "privacy": "Vos informations servent uniquement à vous répondre. Rien n'est enregistré sur ce site : le message part depuis votre WhatsApp.",
+    "errors": { "type": "Choisissez le type de demande.", "name": "Indiquez votre nom.", "phone": "Indiquez un numéro de téléphone valide.", "email": "Cette adresse e-mail semble incomplète." },
+    "sent": "WhatsApp s'est ouvert avec votre message. Il ne reste qu'à l'envoyer.",
+    "fallback": "WhatsApp ne s'ouvre pas ? Ouvrir le lien",
+    "wa": { "hello": "Bonjour Ami, voici ma demande :", "type": "Demande", "option": "Choix", "date": "Date souhaitée", "goal": "Objectif", "name": "Nom", "phone": "Téléphone", "email": "E-mail" }
+  },
+  "pages": {
+    "drainage": {
+      "metaTitle": "Drainage lymphatique méthode Renata França à Amiens | The Body by Ami",
+      "metaDescription": "Drainage lymphatique méthode Renata França à Amiens : 1 h, 150 €. Sensation de légèreté, ventre moins gonflé, jambes plus légères. Version femme enceinte. Réservation en ligne.",
+      "eyebrow": "Corps · Méthode Renata França",
+      "title": "Drainage lymphatique à Amiens",
+      "intro": "Le drainage le plus demandé de l'institut, et celui dont nos clientes parlent le plus dans leurs avis. Des gestes rapides, rythmés et appuyés, qui travaillent les sensations de rétention et de gonflement.",
+      "price": "1 h · 150 €",
+      "sections": [
+        { "title": "Une méthode, pas un massage relaxant", "text": "La méthode Renata França associe des pressions et des pompages précis, enchaînés dans un ordre défini. Le rythme est soutenu : ce n'est pas un massage pour s'endormir, c'est un travail ciblé sur la circulation de la lymphe." },
+        { "title": "Ce que l'on ressent", "text": "Beaucoup de clientes décrivent une sensation de légèreté, un ventre moins gonflé et des jambes moins lourdes dès la sortie. L'effet varie selon chaque corps et votre hygiène de vie : nous ne promettons pas de perte de poids." },
+        { "title": "Seule ou en programme", "text": "Une séance avant un événement, ou le Body Reset : trois drainages, trois sauna dôme et un Miracle Face répartis sur 30 jours." }
+      ],
+      "for": ["Sensation de ventre gonflé ou de rétention", "Jambes lourdes", "Avant un événement, un voyage, un mariage", "Après une période de fatigue ou de stress"],
+      "contra": "Le drainage n'est pas pratiqué en cas de problème circulatoire non suivi, d'infection en cours ou de certains traitements. Enceinte ? Nous proposons un drainage adapté (40 min, 75 €), avec l'accord de votre médecin.",
+      "faq": [
+        { "q": "Combien de séances de drainage faut-il ?", "a": "Une séance suffit pour ressentir l'effet. Pour l'installer dans la durée, nous conseillons plusieurs séances rapprochées, comme dans le programme Body Reset (3 drainages sur 30 jours)." },
+        { "q": "Faut-il préparer la séance ?", "a": "Buvez bien la veille et le jour même, et évitez un repas copieux juste avant. Venez à l'heure : le protocole dure une heure complète." },
+        { "q": "Le drainage Renata França fait-il mal ?", "a": "Les gestes sont appuyés et rapides, mais ne doivent pas faire mal. Dites-le si la pression vous gêne : votre praticienne l'adapte." }
+      ]
+    },
+    "kobido": {
+      "metaTitle": "Kobido, lifting manuel japonais du visage à Amiens | The Body by Ami",
+      "metaDescription": "Kobido à Amiens : le massage japonais du visage, 1 h 15, 120 €. Teint plus lumineux, traits reposés, tensions relâchées. Réservation en ligne chez The Body by Ami.",
+      "eyebrow": "Visage · Massage japonais",
+      "title": "Kobido à Amiens",
+      "intro": "Le Kobido est un massage du visage venu du Japon. Des gestes précis et rythmés, parfois très rapides, qui réveillent l'éclat du teint, travaillent la tonicité et relâchent les tensions.",
+      "price": "1 h 15 · 120 €",
+      "sections": [
+        { "title": "Un lifting manuel", "text": "Sans aiguille ni appareil, le Kobido mobilise les tissus du visage, du cou et du décolleté. Les mouvements alternent percussions, pétrissages et lissages." },
+        { "title": "Ce que l'on ressent", "text": "Un visage plus reposé, un teint plus frais et une vraie détente. Le Kobido est aussi l'un des soins que nos clientes offrent le plus." },
+        { "title": "Avec le Face Pilates", "text": "Le Kobido fait partie du programme Face Reset, avec un Face Pilates Signature et une séance choisie selon votre visage." }
+      ],
+      "for": ["Teint terne, traits fatigués", "Tensions de la mâchoire et du front", "Envie d'un soin du visage sans technologie", "Un cadeau à offrir"],
+      "contra": "Le Kobido est déconseillé en cas d'inflammation ou de lésion de la peau, juste après une injection ou un soin médical du visage. Nous le vérifions avec vous avant de commencer.",
+      "faq": [
+        { "q": "Quelle différence entre Kobido et Face Pilates ?", "a": "Le Kobido est un massage japonais aux gestes codifiés. Le Face Pilates Signature est un protocole plus long (1 h 30) qui ajoute le travail musculaire, le stretching facial et parfois un travail intra-buccal." },
+        { "q": "Peut-on se maquiller après un Kobido ?", "a": "Mieux vaut laisser la peau respirer quelques heures. Prévoyez de venir et de repartir sans maquillage si possible." },
+        { "q": "À quelle fréquence faire un Kobido ?", "a": "Une fois par mois pour l'entretien, ou plus rapproché sur une période courte, avant un événement par exemple." }
+      ]
+    },
+    "facePilates": {
+      "metaTitle": "Face Pilates Signature à Amiens, le soin visage d'Ami | The Body by Ami",
+      "metaDescription": "Face Pilates Signature à Amiens : 1 h 30, 190 €. Le protocole manuel du visage développé par Ami : muscles, tensions, drainage et qualité de peau. Réservation en ligne.",
+      "eyebrow": "Visage · Soin signature",
+      "title": "Face Pilates Signature à Amiens",
+      "intro": "Le soin signature de la maison, développé par Ami. Une heure et demie de travail manuel sur le visage dans sa globalité : les muscles, les tensions, la mobilité des tissus et la qualité de peau.",
+      "price": "1 h 30 · 190 €",
+      "sections": [
+        { "title": "Jamais deux fois le même", "text": "Deux visages ne vieillissent pas de la même manière. Le protocole s'adapte à votre morphologie : l'ovale, les pommettes, le regard, la mâchoire, le front ou les zones marquées." },
+        { "title": "1 h 30 de travail manuel", "text": "Travail musculaire facial, stretching, manœuvres sculptantes et profondes, drainage quand le visage est gonflé, et travail intra-buccal lorsqu'il est indiqué, pour atteindre certaines tensions du bas du visage." },
+        { "title": "Dans la durée", "text": "Le Face Pilates est au cœur des programmes Face Reset (30 jours) et Face Longevity (90 jours), avec un suivi photo de l'évolution." }
+      ],
+      "for": ["Ovale moins dessiné", "Mâchoire serrée, tensions d'expression", "Visage gonflé le matin", "Envie de prendre soin de son visage sans injection"],
+      "contra": "Le soin est adapté ou reporté en cas de lésion de la peau, d'herpès en poussée, juste après une injection ou un acte médical du visage. Nous en parlons pendant le bilan.",
+      "faq": [
+        { "q": "Le Face Pilates remplace-t-il les injections ?", "a": "Ce n'est pas la même chose et nous ne le présentons pas ainsi. Le Face Pilates est un travail manuel, sans aiguille : il agit sur les tensions, la tonicité et la qualité de peau, à son rythme." },
+        { "q": "Combien de séances pour voir une différence ?", "a": "Beaucoup de clientes voient leur visage plus reposé dès la première séance. Pour un travail suivi, le programme Face Reset en propose trois sur 30 jours." },
+        { "q": "Qu'est-ce que le travail intra-buccal ?", "a": "Quelques manœuvres réalisées à l'intérieur de la joue, avec des gants, pour accéder à certains muscles du bas du visage. Il n'est fait que s'il est utile, et avec votre accord." }
+      ]
+    },
+    "headSpa": {
+      "metaTitle": "Head spa à Amiens, rituel du cuir chevelu | The Body by Ami",
+      "metaDescription": "Head spa à Amiens : détente 1 h à 85 €, Signature 1 h 30 à 160 €, en duo ou pour les enfants de 4 à 10 ans. Nettoyage du cuir chevelu, eau et massages. Réservation en ligne.",
+      "eyebrow": "Cuir chevelu · Relaxation",
+      "title": "Head spa à Amiens",
+      "intro": "Un rituel autour de l'eau pour le cuir chevelu : observation, nettoyage, soins et massages de la tête, de la nuque et des épaules. Vous fermez les yeux, on s'occupe du reste.",
+      "price": "À partir de 1 h · 85 €",
+      "sections": [
+        { "title": "Comment se déroule le rituel", "text": "On commence par regarder votre cuir chevelu et parler de vos habitudes. Puis le cuir chevelu et les cheveux sont nettoyés avec des produits choisis pour vous, avant les soins et les massages, dans une lumière tamisée." },
+        { "title": "Détente ou Signature", "text": "Le head spa détente dure 45 minutes de soin. Le Signature, notre protocole le plus complet, va plus loin dans les soins et le massage. Les deux existent en duo, côte à côte." },
+        { "title": "Le séchage", "text": "Le séchage se fait en autonomie, sèche-cheveux à disposition. Aucun brushing ni coiffage n'est réalisé." }
+      ],
+      "for": ["Cuir chevelu sensible ou chargé", "Besoin de déconnecter", "Un moment à deux : mère et fille, amies, couple", "Les enfants de 4 à 10 ans, avec « Mon premier head spa »"],
+      "contra": "Signalez-nous toute lésion du cuir chevelu, une chirurgie récente ou une grossesse : le rituel est alors adapté.",
+      "faq": [
+        { "q": "Faut-il venir les cheveux propres ?", "a": "Non, le rituel commence par le nettoyage. Évitez simplement les coiffures très travaillées ou les extensions fragiles." },
+        { "q": "Peut-on faire un head spa à deux ?", "a": "Oui : le head spa duo, détente ou Signature, se fait côte à côte. Le prix affiché comprend les deux personnes." },
+        { "q": "Le head spa enfant, comment ça se passe ?", "a": "« Mon premier head spa » dure 30 minutes, pour les 4 à 10 ans : un rituel doux, adapté à leur âge, en présence d'un parent." }
+      ]
+    },
+    "related": "Les soins de la même famille",
+    "forTitle": "Pour qui",
+    "contraTitle": "Bon à savoir",
+    "faqTitle": "Questions sur ce soin",
+    "book": "Réserver ce soin",
+    "bilan": "Faire d'abord un bilan",
+    "back": "Tous les soins"
+  },
+  "legal": {
+    "metaTitle": "Mentions légales | The Body by Ami",
+    "title": "Mentions légales",
+    "editor": "Éditeur du site",
+    "editorText": "The Body by Ami, 58 rue des Jacobins, 1er étage, 80000 Amiens. Téléphone : 06 23 08 10 54.",
+    "company": "Raison sociale et SIRET",
+    "pending": "à compléter",
+    "director": "Directrice de la publication",
+    "host": "Hébergement",
+    "photos": "Photos",
+    "photosText": "Photos : The Body by Ami. Les photos de clientes sont publiées avec leur accord. Toute reproduction est interdite sans autorisation.",
+    "data": "Données personnelles",
+    "dataText": "Ce site ne dépose pas de cookie publicitaire et n'enregistre aucune donnée. Le formulaire de demande prépare un message WhatsApp que vous envoyez vous-même. Les réservations sont gérées par Planity, selon sa propre politique de confidentialité."
+  },
+  "alt": {
+    "soin-visage-peau-lumineuse": "Cliente allongée après un soin du visage, la peau lumineuse",
+    "face-pilates-pendant-le-soin": "Visage d'une cliente pendant un soin Face Pilates, charlotte sur les cheveux",
+    "soin-visage-allongee": "Cliente allongée sur la table de soin, le teint frais après un soin visage",
+    "drainage-lymphatique-mains": "Mains de la praticienne pendant un drainage lymphatique de la jambe",
+    "sauna-dome-lumiere": "Cliente sous le sauna dôme, dans sa lumière rouge",
+    "rituel-head-spa-eau": "Rituel head spa : la cliente allongée, les cheveux dans l'eau du bac, des fleurs de frangipanier",
+    "ami-fondatrice": "Portrait d'Ami, fondatrice de The Body by Ami, souriante",
+    "ami-plateau-forbes": "Ami sur le plateau de l'émission « Entreprises à succès » de Forbes",
+    "vogue-article-facepilates": "Page beauté de Vogue consacrée au Facepilates, avril 2026",
+    "silhouette-avant": "Ventre d'une cliente allongée avant un drainage",
+    "silhouette-apres": "Ventre d'une cliente allongée après un drainage"
+  }
+}

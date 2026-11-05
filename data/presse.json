@@ -1,0 +1,10 @@
+{
+  "_note": "Presse et récompenses, d'après le compte Instagram (bio, stories « Presse » et « Petit Futé 2024 »). verified = preuve reçue (à mettre à true). Supprimer une ligne la retire du site.",
+  "items": [
+    { "id": "concept-2026", "name": "Meilleur concept esthétique", "year": "2026", "kind": "award", "detail": { "fr": "Distinction citée dans la présentation de l'institut", "en": "Award quoted in the institute's profile" }, "verified": false },
+    { "id": "petit-fute", "name": "Petit Futé", "year": "2024", "kind": "award", "detail": { "fr": "Adresse recommandée par le guide", "en": "Recommended by the guide" }, "verified": false },
+    { "id": "forbes", "name": "Forbes", "year": null, "kind": "press", "detail": { "fr": "Invitée de l'émission « Entreprises à succès »", "en": "Guest on the show « Entreprises à succès »" }, "image": "/media/presse/ami-plateau-forbes.jpg", "verified": false },
+    { "id": "vogue", "name": "Vogue", "year": "2026", "kind": "press", "detail": { "fr": "Le Facepilates dans les pages beauté, avril 2026", "en": "Facepilates in the beauty pages, April 2026" }, "image": "/media/presse/vogue-article-facepilates.jpg", "verified": false },
+    { "id": "elles-ils-sont-amiens", "name": "Elles, ils sont Amiens", "year": null, "kind": "press", "detail": { "fr": "Portrait d'Ami, fondatrice de The Body et du Studio 27", "en": "Profile of Ami, founder of The Body and Studio 27" }, "verified": false }
+  ]
+}
