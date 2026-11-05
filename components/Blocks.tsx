@@ -13,7 +13,7 @@ export const alt = (d: Dict, src: string) => d.alt[src.split("/").pop()!.replace
 /** Photo de public/media avec ses vraies dimensions et son texte alternatif dans la langue de la page. */
 export function Photo({ src, d, className = "", sizes, priority = false }: { src: string; d: Dict; className?: string; sizes: string; priority?: boolean }) {
   const i = img(src);
-  return <Image src={i.src} width={i.width} height={i.height} alt={alt(d, src)} sizes={sizes} priority={priority} quality={80} className={className} />;
+  return <Image src={i.src} width={i.width} height={i.height} alt={alt(d, src)} sizes={sizes} priority={priority} quality={priority ? 70 : 80} className={className} />;
 }
 
 export function SectionHead({ eyebrow, title, lead, center = false, id, light = false }: { eyebrow: string; title: string; lead?: string; center?: boolean; id?: string; light?: boolean }) {

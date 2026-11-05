@@ -250,18 +250,16 @@ function Programmes({ lang, d }: { lang: Locale; d: Dict }) {
             <Reveal key={c.id} delay={i * 0.08} className={`relative flex flex-col border border-line p-7 md:border-0 lg:p-9 ${i > 0 ? "md:border-s md:border-line" : ""} ${c.featured ? "bg-sand-soft" : "bg-paper"}`}>
               {c.featured && <span className="eyebrow absolute top-0 left-7 -translate-y-1/2 bg-paper px-2 lg:left-9">{p.featured}</span>}
               <h3 className="display text-[2.3rem] leading-none">{c.name[lang]}</h3>
-              <dl className="mt-7 flex-1 space-y-5 text-[0.9375rem]">
-                <div className="grid grid-cols-2 gap-4 border-b border-line pb-5">
-                  <div>
-                    <dt className={rowLabel}>{p.rows.length}</dt>
-                    <dd className="mt-1.5">{c.length[lang]}</dd>
-                  </div>
-                  <div>
-                    <dt className={rowLabel}>{p.rows.sessions}</dt>
-                    <dd className="mt-1.5">{c.sessions ? fill(p.sessionsN, { n: c.sessions }) : p.sessionsBilan}</dd>
-                  </div>
+              <dl className="mt-7 grid flex-1 grid-cols-2 content-start gap-x-4 gap-y-5 text-[0.9375rem]">
+                <div className="border-b border-line pb-5">
+                  <dt className={rowLabel}>{p.rows.length}</dt>
+                  <dd className="mt-1.5">{c.length[lang]}</dd>
                 </div>
-                <div>
+                <div className="border-b border-line pb-5">
+                  <dt className={rowLabel}>{p.rows.sessions}</dt>
+                  <dd className="mt-1.5">{c.sessions ? fill(p.sessionsN, { n: c.sessions }) : p.sessionsBilan}</dd>
+                </div>
+                <div className="col-span-2">
                   <dt className={rowLabel}>{p.rows.includes}</dt>
                   <dd className="mt-2">
                     <ul className="space-y-1.5">
@@ -274,7 +272,7 @@ function Programmes({ lang, d }: { lang: Locale; d: Dict }) {
                     </ul>
                   </dd>
                 </div>
-                <div>
+                <div className="col-span-2">
                   <dt className={rowLabel}>{p.rows.for}</dt>
                   <dd className="mt-1.5 leading-relaxed text-muted">{c.for[lang]}</dd>
                 </div>

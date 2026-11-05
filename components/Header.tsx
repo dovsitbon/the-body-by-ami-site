@@ -101,7 +101,7 @@ export function Header() {
         </div>
 
         <Link href={href(lang, "home")} aria-label={n.home} className="block text-ink">
-          <Logo className="h-12 w-auto lg:h-[3.6rem]" />
+          <Logo tagline={false} className="h-10 w-auto lg:h-[3.1rem]" />
         </Link>
 
         <div className="flex items-center justify-end gap-3 lg:gap-5">
